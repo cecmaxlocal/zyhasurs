@@ -33,7 +33,7 @@ A modern, fast, and feature-rich Integrated Development Environment (IDE) built 
 
 The project repository is organized into several key directories:
 
-```
+
 .zyhasurs/
 ├── App/            # Core application logic, business rules, and non-UI code.
 ├── Client/         # Client-side logic, API connectors, and state management.
@@ -43,7 +43,7 @@ The project repository is organized into several key directories:
 ├── Servers/        # (Optional) Backend server code for future features like online sync or a plugin marketplace.
 ├── Web/            # Code for the project's promotional website or web-based documentation.
 └── README.md       # You are here!
-```
+
 
 ## 🚀 Getting Started
 
